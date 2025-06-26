@@ -54,3 +54,4 @@ def predict(data: TransactionData):
         return {"prediction": prediction}
     except Exception as e:
         return {"error": str(e)}
+    
