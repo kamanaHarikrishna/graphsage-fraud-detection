@@ -5,3 +5,4 @@ joblib
 nltk
 torch
 torchvision
+torch-geometric
